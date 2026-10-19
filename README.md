@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**davidcarneiro2301/davidcarneiro2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Bonjour, moi c'est David !
 
-Here are some ideas to get you started:
+### 💻 Développeur BI / Data | Full Stack | IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Lyon, France
+
+**4 années d'expérience en BI / Data chez Qualiconsult**  
+Master Intelligence Artificielle & Big Data – IPSSI
+
+Passionné par la valorisation des données, la conception de solutions décisionnelles et le développement d'applications.
+
+</div>
