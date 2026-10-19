@@ -52,3 +52,27 @@ Passionné par la valorisation des données, la conception de solutions décisio
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **Machine Learning • Deep Learning • CNN • LSTM • NLP • Computer Vision**
+
+---
+
+## 📂 Mes projets
+
+### 🚗 Analyse des accidents routiers en France (2014–2023)
+
+Analyse de données publiques sur les accidents routiers, identification des facteurs de risque et développement d'un modèle prédictif en Python.
+
+**Technologies :** Python, Pandas, Machine Learning, Plotly Dash.
+
+### 🧠 Reconnaissance des expressions faciales (FER)
+
+Application Full Stack intégrant un système d'analyse des expressions faciales en temps réel pour personnaliser les recommandations de contenus sur un réseau social.
+
+**Domaines :** Intelligence artificielle, Computer Vision, reconnaissance des expressions faciales.
+
+### 📚 Application de gestion de bibliothèque
+
+Application web développée sous Symfony pour gérer les utilisateurs, les livres et les emprunts, avec une interface d'administration.
+
+**Technologies :** PHP, Symfony, Doctrine ORM, MySQL.
+
+---
