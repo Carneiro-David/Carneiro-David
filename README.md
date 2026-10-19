@@ -76,3 +76,7 @@ Application web développée sous Symfony pour gérer les utilisateurs, les livr
 **Technologies :** PHP, Symfony, Doctrine ORM, MySQL.
 
 ---
+
+## 📫 Contact
+
+📧 **Email :** [david.carneiro2301@gmail.com](mailto:david.carneiro2301@gmail.com)
