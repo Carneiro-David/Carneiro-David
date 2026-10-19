@@ -24,3 +24,14 @@ Passionné par la valorisation des données, la conception de solutions décisio
 - 🎯 Intéressé par les opportunités en **Business Intelligence, Data et développement**
 
 ---
+
+## 🛠️ Compétences techniques
+
+### 📊 Data & Business Intelligence
+
+![SAP](https://img.shields.io/badge/SAP-0FA6D4?style=for-the-badge&logo=sap&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**SAP HANA • SAP Analytics Cloud • CDS Views • OData • Data Modeling • Data Quality**
