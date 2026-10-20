@@ -69,12 +69,6 @@ Application Full Stack intégrant un système d'analyse des expressions faciales
 
 **Domaines :** Intelligence artificielle, Computer Vision, reconnaissance des expressions faciales.
 
-### 📚 Application de gestion de bibliothèque
-
-Application web développée sous Symfony pour gérer les utilisateurs, les livres et les emprunts, avec une interface d'administration.
-
-**Technologies :** PHP, Symfony, Doctrine ORM, MySQL.
-
 ---
 
 ## 📫 Contact
